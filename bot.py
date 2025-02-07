@@ -38,11 +38,11 @@ i can convert image to pdf
 This bot created by {BOTBY}""",reply_to_message_id = message.id ,  reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Updates Channel 🇮🇳" ,url=f"https://t.me/Private_Bots") ],
+                    InlineKeyboardButton("Updates Channel 🇮🇳" ,url=f"https://t.me/sallibota") ],
 [
-                    InlineKeyboardButton("Developer 💀" ,url="https://t.me/Prime_Hritu") ],
+                    InlineKeyboardButton("Developer 💀" ,url="https://t.me/oh_th") ],
 [
-                    InlineKeyboardButton("Source Code 👀" ,url="https://github.com/Prime-Hritu/image2pdf-Bot") ]
+                    InlineKeyboardButton("Movie Bot 👀" ,url="https://t.me/LKFILM_BOT") ]
                  ]        ) )
 
 
